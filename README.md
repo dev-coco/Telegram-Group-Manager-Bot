@@ -1,6 +1,9 @@
 # Telegram-Group-Manager-Bot
 Telegram Group Manager Bot. Telegram小组管理机器人。
 
+# Explanation
+[English](README.md) | [中文](README-zh.md)
+
 # Features
 1. Send welcome message
 2. Remove users based on username
