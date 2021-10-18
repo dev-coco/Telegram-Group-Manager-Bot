@@ -1,5 +1,5 @@
 # Telegram-Group-Manager-Bot
-Telegram Group Manager Bot. Telegram小组管理机器人。
+Telegram Group Manager Bot.
 
 # Explanation
 [English](README.md) | [中文](README-zh.md)
