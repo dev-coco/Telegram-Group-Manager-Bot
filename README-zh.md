@@ -11,7 +11,7 @@ Telegram小组管理机器人。
 4. 置顶消息提示信息
 5. 根据关键词删除信息
 
-# Create Telegram bot
+# 创建Telegram机器人
 1. Telegram 搜索 @BotFather
 2. 发送命令 `/newbot`
 3. 发送机器人名字.
